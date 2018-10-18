@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "23894185551",
+    "firebase_url": "https://build-it-bigger-30440.firebaseio.com",
+    "project_id": "build-it-bigger-30440",
+    "storage_bucket": "build-it-bigger-30440.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23894185551:android:9f736eb9fc1e1319",
+        "android_client_info": {
+          "package_name": "com.udacity.gradle.builditbigger.free"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23894185551-pa80nu4j5uo4i8iejq4j68o60dmqoqmi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.udacity.gradle.builditbigger.free",
+            "certificate_hash": "78efa24d265181d3d69a2fc20dba87078c65d12e"
+          }
+        },
+        {
+          "client_id": "23894185551-rf8ccq9l5jh15p4cspq8a9j5mdnbr08e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxn0nkkP10fU7Mhz4VYOlXTIayiCUypJM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23894185551-rf8ccq9l5jh15p4cspq8a9j5mdnbr08e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
